@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf856A2223200aC7cbBf457041D4067f68fd3dCC8",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xf856a2223200ac7cbbf457041d4067f68fd3dcc8",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Metacert",
+  "SYMBOL": "MC",
+  "MAX_SUPPLY": 100000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/metacert",
+  "SHOW_BACKGROUND": true
+}
